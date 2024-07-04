@@ -77,5 +77,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Nigel van der Laan - nigel@arqnxs.com
 
-Project Link: [https://github.com/yourusername/ase-hyperparameter-optimization](https://github.com/yourusername/ase-hyperparameter-optimization)
+Project Link: [https://github.com/ARQNXS/Papers/ASE](https://github.com/ARQNXS/Papers/ASE)
 
