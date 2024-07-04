@@ -17,21 +17,6 @@ Our papers cover a wide range of topics, including but not limited to:
 - Reinforcement Learning
 - AI Ethics and Fairness
 
-## Repository Structure
-
-The repository is organized as follows:
-
-```
-/
-├── published/
-│   ├── 2024/
-│   ├── 2023/
-│   └── ...
-├── preprints/
-├── technical_reports/
-├── conference_proceedings/
-└── collaborative_projects/
-```
 
 ## Recent Publications
 
@@ -46,7 +31,7 @@ The repository is organized as follows:
 
 3. **Cloning**: To clone the entire repository:
    ```
-   git clone https://github.com/arqnxs/research-papers.git
+   git clone https://github.com/arqnxs/Papers.git
    ```
 
 4. **Updating**: If you're an Arqnxs researcher, pull the latest changes before adding new content:
@@ -85,6 +70,45 @@ research@arqnxs.com
 
 Unless otherwise specified, the papers in this repository are the intellectual property of Arqnxs. Please refer to individual papers for specific licensing information.
 
+## Support Our Research
+
+At Arqnxs, we are committed to pushing the boundaries of machine learning and AI research. Our work aims to advance these fields and create innovative solutions that can benefit society. If you find our research valuable and would like to support our ongoing R&D efforts, we welcome donations.
+
+### Why Donate?
+
+Your donations help us:
+- Conduct cutting-edge research in machine learning and AI
+- Develop open-source tools and libraries for the community
+- Support early-career researchers and fund PhD projects
+- Organize workshops and conferences to disseminate knowledge
+
+### How to Donate
+
+We accept donations through the following methods:
+
+1. **Cryptocurrency**: 
+   - Ethereum: 0x663E30C3AE88b66DAa862c9D451eBe3644B3083c
+
+2. **Bank Transfer**:
+   IBAN: NL07BUNQ2058581857 
+   BIC: BUNQNL2A
+   ARQNXS
+
+For larger donations or corporate sponsorships, please contact us directly at donations@arqnxs.com.
+
+### Recognition
+
+We appreciate all support, big or small. Donors contributing over $1000 will be acknowledged in our annual report and on our website (unless you prefer to remain anonymous).
+
+### Tax Deductions
+
+Donations may be tax-deductible in some countries. Please consult with your tax advisor for more information.
+
+## Transparency
+
+We are committed to transparency in the use of donated funds. An annual report detailing how donations have been used to further our research goals will be published on our website.
+
+Thank you for considering supporting our research. Your contribution helps us continue our mission to advance the field of AI and machine learning.
 ---
 
 © 2024 Arqnxs. All Rights Reserved.
