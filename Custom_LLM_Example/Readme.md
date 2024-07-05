@@ -14,7 +14,6 @@ CustomPaperPipeline is a cutting-edge AI pipeline that pushes the boundaries of 
 - Data Collection: Fetches relevant scientific papers from arXiv
 - Preprocessing: Cleans and structures raw text data
 - Custom Transformer Model: Tailored for scientific writing
-- Adaptive Surrogate Ensemble (ASE): Optimizes paper generation parameters
 - Paper Generation: Creates new scientific papers based on prompts
 - Refinement: Optional refinement using OpenAI's GPT model
 
