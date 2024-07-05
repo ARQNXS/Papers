@@ -60,9 +60,7 @@ generated_text = model.generate("Your prompt here", max_length=100)
 To use these projects, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-pip install -r requirements.txt
+git clone https://github.com/ARQNXS/Papers/Custom_LLM_Example.git
 ```
 
 ## Contributing
